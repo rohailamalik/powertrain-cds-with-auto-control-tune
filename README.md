@@ -1,6 +1,6 @@
-# Generative Design of a Vehicle Powertrain - Version 1.0
+# Simulation-driven Computational Synthesis of Vehicle Powertrain Topologies with integrated autonomous control tuning
 
-This MATLAB-based framework autonomously designs, models, control tunes, and simulates possible vehicle powertrain architectures. It is limited to a specific set of components from the library and can only generate sequential layouts (where components are arranged in a sequence/line).
+This MATLAB-based framework autonomously designs, models, auto control tunes, and simulates possible vehicle powertrain architectures. It is limited to a specific set of components from the library and can only generate sequential layouts (where components are arranged in a sequence/line).
 
 ## Additional Files Included
 - **Powertrain_Library_GenAI.slx**: The Simulink library used by the framework.
